@@ -36,14 +36,5 @@
   
   <br>
   
- ![Snake animation](https://github.com/Fe-Monteiro/Fe-Monteiro/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/Fe-Monteiro/Fe-Monteiro/blob/output/github-contribution-grid-snake.svg)-->
     
-    
- 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
