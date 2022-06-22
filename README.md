@@ -32,8 +32,18 @@
     <a href="https://www.linkedin.com/in/fe-monteiro" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Fernanda Monteiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
- 
+  </div>
+  
+  <br>
+  
  ![Snake animation](https://github.com/Fe-Monteiro/Fe-Monteiro/blob/output/github-contribution-grid-snake.svg)
     
     
- </div> 
+ 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
