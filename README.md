@@ -1,15 +1,17 @@
 <h1 align="center"> Olá, seja bem-vindo(a) 😊</h1>
 
-<h3 align="center">Me chamo Fernanda Monteiro e sou desenvolvedora front-end Jr 🚀</h3>
+<h3 align="center">Me chamo Fernanda Monteiro e sou desenvolvedora front-end Jr. em desenvolvimento 🚀</h3>
 
-<p align="center">Graduada pela Laboratória, turma SAP007 (2022). Em transição de carreira, no momento estudo: <i>Javascript, CSS3, HTML5, React e Firebase.</i></p> 
+<p align="center">Graduada pela Laboratoria na turma SAP007 (2022). Em transição de carreira, no momento estudo: <i>Javascript, CSS3, HTML5, React e Firebase.</i></p> 
 
 <h2 align="center">📈 GitHub Estatísticas</h2>
 
 <div align="center">
   <a href="https://github.com/Fe-Monteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Monteiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Monteiro&layout=compact&langs_count=7&theme=dracula"/>--></div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fe-Monteiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fe-Monteiro&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
   
 <h2 align="center">🛠 Tecnologias e ferramentas que utilizo</h2>
   <div align="center" style="display: inline_block"><br>
