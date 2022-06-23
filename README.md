@@ -22,12 +22,13 @@
     <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="logo-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
     <a href="https://firebase.google.com/?hl=pt-br" target="_blank"><img align="center" alt="logo-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"></a>
     <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" alt="logo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-    <a href="https://eslint.org/" target="_blank"><img align="center" alt="logo-slack" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"></a>
+    <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="logo-jest" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
+    <a href="https://eslint.org/" target="_blank"><img align="center" alt="logo-eslint" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="logo-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><a/>
     <a href="https://www.canva.com/" target="_blank"><img align="center" alt="logo-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
     <a href="https://www.figma.com/files/recent?fuid=1106566407869575293" target="_blank"><img align="center" alt="logo-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
     <a href="https://trello.com/pt-BR" target="_blank"><img align="center" alt="logo-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></a>
-    <a href="https://slack.com/intl/pt-br/" target="_blank"><img align="center" alt="logo-slack" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></a>
+    <a href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer"><img align="center" alt="logo-slack" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></a>
   </div>
   
 <h2 align="center">📇 Me encontre aqui</h2>
