@@ -13,7 +13,7 @@
   
 <h2 align="center">🛠 Tecnologias e ferramentas que utilizo</h2>
   <div align="center" style="display: inline_block"><br>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="logo Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="logo Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="logo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="logo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
     <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="logo-nodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
